@@ -14,5 +14,3 @@ I'm Muzammil Dafedar, a passionate and seasoned full-stack developer with over 2
 <a href="https://twitter.com/gullyprogrammer"><img height="30" src="https://github.com/muzammildafedar/muzammildafedar/blob/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
 
 </p>
-
-[Check my portfolio](https://muzammildafedar.github.io/)
