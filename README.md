@@ -9,7 +9,7 @@ Hi there, I am a Full Stack Developer with expertise in HTML, CSS, JavaScript, R
 
 **AI/ML:** Openai API's, LangChain, **Llamaindex**, Diffusion
 
-**Mobile:**  Dart, Firebase, **Flutter**, **Provider**, BLOC, Material UI
+**Mobile:**  Dart, Firebase, **Flutter**, **Provider**, BLOC, Material UI. React Native
 
 <p align='center'>
 <a href="https://www.linkedin.com/in/muzammil-dafedar-61893418b/"><img height="30" src="https://github.com/muzammildafedar/muzammildafedar/blob/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
