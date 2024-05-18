@@ -5,7 +5,7 @@ Hi there, I am a Full Stack Developer with expertise in HTML, CSS, JavaScript, R
 
 **Front End:**  HTML, CSS, **JavaScript**, **Material UI**, **React**, **React-Router**, Redux
 
-**Back End:** Node, Express, PostgreSQL, MongoDB, Mongoose, Bcrypt, JsonWebToken, Serverless
+**Back End:** Node, Express, PostgreSQL, MongoDB, Mongoose, Bcrypt, JsonWebToken, Serverless, Nest.js
 
 **AI/ML:** Openai API's, LangChain, **Llamaindex**, Diffusion
 
