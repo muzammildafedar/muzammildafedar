@@ -1,23 +1,49 @@
-### Hi there 👋
-Hi there, I am a Full Stack Developer with expertise in HTML, CSS, JavaScript, React, Flutter and Node.js. I have experience developing Web and Mobile applications from scratch, implementing secure authentication systems, and integrating APIs to enhance functionality.  
+## 👋 Hey there, I'm Muzammil!
 
-#### ⚒ Tech Stack:
+I'm a **Full Stack Developer** passionate about building clean, scalable, and high-performance **Web** applications.  
+I work across the entire product lifecycle — from crafting intuitive UIs to architecting secure backend systems and integrating advanced AI-powered features.
 
-**Front End:**  HTML, CSS, **JavaScript**, **Material UI**, **React**, **React-Router**, Redux
+---
 
-**Back End:** Node, Express, PostgreSQL, MongoDB, Mongoose, Bcrypt, JsonWebToken, Serverless, Nest.js
+## ⚒️ Tech Stack & Expertise
 
-**AI/ML:** Openai API's, LangChain, **Llamaindex**, Diffusion
+### **Frontend Development**
+- **HTML**, **CSS**, **JavaScript**
+- **React**, React Router, Redux
+- Material UI, Responsive Design
 
-**Mobile:**  Dart, Firebase, **Flutter**, **Provider**, BLOC, Material UI. React Native
+### **Backend Development**
+- **Node.js**, Express
+- PostgreSQL, MongoDB, Mongoose
+- JWT, Bcrypt, Serverless
+- **Nest.js**
 
-<p align='center'>
-<a href="https://www.linkedin.com/in/muzammil-dafedar-61893418b/"><img height="30" src="https://github.com/muzammildafedar/muzammildafedar/blob/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/gullyprogrammer"><img height="30" src="https://github.com/muzammildafedar/muzammildafedar/blob/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
+### **AI / ML & LLM Tools**
+- **OpenAI APIs**, LangChain
+- **LlamaIndex**, Diffusion Models
 
+### **Mobile Development**
+- **Flutter**, Dart
+- Firebase, Provider, BLoC
+- React Native
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/muzammil-dafedar-61893418b/">
+    <img height="32" src="https://github.com/muzammildafedar/muzammildafedar/blob/master/linkedin.png?raw=true"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://twitter.com/gullyprogrammer">
+    <img height="32" src="https://github.com/muzammildafedar/muzammildafedar/blob/master/twitter.png?raw=true"/>
+  </a>
 </p>
 
-### Official Github Account [Github](https://github.com/muzammildafedaar)
+---
 
-#### 📫 Contact Me ✉️ [Email](mailto:muzammildafedaar@gmail.com) 
+### 🔗 Official GitHub Account  
+👉 **[github.com/muzammildafedaar](https://github.com/muzammildafedaar)**
 
+### 📫 Reach Out  
+✉️ **[mzdafedar@gmail.com](mailto:mzdafedar@gmail.com)**  
