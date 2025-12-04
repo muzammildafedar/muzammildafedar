@@ -33,11 +33,8 @@ I work across the entire product lifecycle — from crafting intuitive UIs to ar
 
 <p align="center">
   <a href="https://www.linkedin.com/in/muzammil-dafedar-61893418b/">
-    <img height="32" src="https://github.com/muzammildafedar/muzammildafedar/blob/master/linkedin.png?raw=true"/>
+    Linkedin
   </a>&nbsp;&nbsp;
-  <a href="https://twitter.com/gullyprogrammer">
-    <img height="32" src="https://github.com/muzammildafedar/muzammildafedar/blob/master/twitter.png?raw=true"/>
-  </a>
 </p>
 
 ---
